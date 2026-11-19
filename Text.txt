@@ -1,1 +1,4 @@
-1. Probaszöveg - ezen gyakorlunk
+1. Probaszöveg - ezen gyakorlunk.
+2. git init
+3.git add text.txt vagy git add .
+4. git commit -m "a commit szövege"
